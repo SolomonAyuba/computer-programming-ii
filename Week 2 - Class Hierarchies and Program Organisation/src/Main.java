@@ -6,8 +6,8 @@ public class Main {
         // WEEK 2: Class Hierarchies and Program Organisation  |	Sun 8th September, 2024
 
         // For spacing between codes
-        String space = "---------";
-        System.out.println(space + "WEEK 2: Class Hierarchies and Program Organisation  |\tSun 8th September, 2024" + space);
+       // String space = "---------";
+       // System.out.println(space + "WEEK 2: Class Hierarchies and Program Organisation  |\tSun 8th September, 2024" + space);
 
 
         // Organising Class Hierarchies

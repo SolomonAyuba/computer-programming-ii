@@ -1,3 +1,4 @@
+/*
 public class namespaces {
     // This is intended for C++ - you can ignore.
 
@@ -10,3 +11,4 @@ public class namespaces {
         };
     }
 }
+*/
