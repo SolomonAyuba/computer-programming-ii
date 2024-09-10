@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/C__.iml" filepath="$PROJECT_DIR$/.idea/C__.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week 2 - Class Hierarchies and Program Organisation/Week 2 - Class Hierarchies and Program Organisation.iml" filepath="$PROJECT_DIR$/Week 2 - Class Hierarchies and Program Organisation/Week 2 - Class Hierarchies and Program Organisation.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/computer-programming-ii.iml" filepath="$PROJECT_DIR$/.idea/computer-programming-ii.iml" />
     </modules>
