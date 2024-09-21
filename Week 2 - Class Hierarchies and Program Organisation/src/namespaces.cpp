@@ -1,4 +1,4 @@
-
+// Week 2 Module
 //Namespaces
 
 /* All identifiers within a namespaces scope can be accessed by each other without needing additional qualification.
